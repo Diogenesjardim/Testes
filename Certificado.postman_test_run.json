@@ -1,0 +1,392 @@
+{
+	"id": "d0ae380d-228b-4e78-acbf-0a271aaa37f2",
+	"name": "Certificado",
+	"timestamp": "2022-06-21T05:27:42.424Z",
+	"collection_id": "18165425-b089b0ee-32ed-48ef-aed8-d0ee0bdac688",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "b81c3ccc-7271-4d09-af9d-36af71cd3e84",
+			"name": "Autenticacao",
+			"url": "http://165.227.93.41/cgitar/autenticacao",
+			"time": 314,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				314
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "4f6ea6ab-a014-4da9-ab7b-19001cd624be",
+			"name": "Usuarios",
+			"url": "http://165.227.93.41/cgitar/usuarios",
+			"time": 176,
+			"responseCode": {
+				"code": 409,
+				"name": "Conflict"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				176
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "9e7517a7-7450-40eb-a100-50cb0a367a74",
+			"name": "Respostas01",
+			"url": "http://165.227.93.41/cgitar/respostas",
+			"time": 234,
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				234
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "8ff8f883-f0fd-4f89-bf1a-0d070d86b7b3",
+			"name": "Perguntas01",
+			"url": "http://165.227.93.41/cgitar/perguntas",
+			"time": 221,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				221
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "34e991f9-8c83-4e87-ac37-305631ea123f",
+			"name": "Perguntas02",
+			"url": "http://165.227.93.41/cgitar/perguntas",
+			"time": 213,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				213
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "a78eab61-e9c7-40bf-8432-91c99e1e9083",
+			"name": "Perguntas03",
+			"url": "http://165.227.93.41/cgitar/perguntas",
+			"time": 239,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				239
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "16a4ecd8-7d2e-4de2-aee9-270615db153d",
+			"name": "Perguntas04",
+			"url": "http://165.227.93.41/cgitar/perguntas",
+			"time": 145,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				145
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "9d854af7-b2f1-4106-8854-af062e676a94",
+			"name": "Perguntas05",
+			"url": "http://165.227.93.41/cgitar/perguntas",
+			"time": 257,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				257
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "00703820-c5d1-4505-83c7-54d26574ab79",
+			"name": "Perguntas06",
+			"url": "http://165.227.93.41/cgitar/perguntas",
+			"time": 239,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				239
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "696fad1f-4aaf-4a0b-8722-9508e1fe80d9",
+			"name": "Perguntas07",
+			"url": "http://165.227.93.41/cgitar/perguntas",
+			"time": 147,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				147
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "f54d2d0f-21a3-44e4-b312-1d60f00a283e",
+			"name": "Perguntas08",
+			"url": "http://165.227.93.41/cgitar/perguntas",
+			"time": 148,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				148
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "b4f95230-00d4-473e-ba84-3f13ffb15ee0",
+			"name": "Perguntas09",
+			"url": "http://165.227.93.41/cgitar/perguntas",
+			"time": 243,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				243
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "8940bf06-ea6d-4ad4-b9bc-34b561a032e3",
+			"name": "Perguntas10",
+			"url": "http://165.227.93.41/cgitar/perguntas",
+			"time": 138,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				138
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "b7c3fc82-a9bc-4c6c-a9e8-cbcd072d2d91",
+			"name": "Todas as respostas",
+			"url": "http://165.227.93.41/cgitar/respostas",
+			"time": 160,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				160
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "165a351c-d7ac-4036-a00c-dcffda7f0b10",
+			"name": "http://165.227.93.41/cgitar/certificado.php?hash=29369b033722f76f32826d2472868ded",
+			"url": "http://165.227.93.41/cgitar/certificado.php?hash=29369b033722f76f32826d2472868ded",
+			"time": 154,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				154
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "81e5df4a-9025-4c47-9ba5-13de0825cfa0",
+			"name": "{{servidor}}/usuarios",
+			"url": "http://165.227.93.41/cgitar/usuarios",
+			"time": 148,
+			"responseCode": {
+				"code": 409,
+				"name": "Conflict"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				148
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d6e16854-8f58-4133-bef2-72f201820b70",
+			"name": "http://165.227.93.41/cgitar/certificado.php?hash=29369b033722f76f32826d2472868ded",
+			"url": "http://165.227.93.41/cgitar/certificado.php?hash=29369b033722f76f32826d2472868ded",
+			"time": 146,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				146
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 3322,
+	"collection": {
+		"requests": [
+			{
+				"id": "b81c3ccc-7271-4d09-af9d-36af71cd3e84",
+				"method": "POST"
+			},
+			{
+				"id": "4f6ea6ab-a014-4da9-ab7b-19001cd624be",
+				"method": "POST"
+			},
+			{
+				"id": "9e7517a7-7450-40eb-a100-50cb0a367a74",
+				"method": "POST"
+			},
+			{
+				"id": "8ff8f883-f0fd-4f89-bf1a-0d070d86b7b3",
+				"method": "GET"
+			},
+			{
+				"id": "34e991f9-8c83-4e87-ac37-305631ea123f",
+				"method": "GET"
+			},
+			{
+				"id": "a78eab61-e9c7-40bf-8432-91c99e1e9083",
+				"method": "GET"
+			},
+			{
+				"id": "16a4ecd8-7d2e-4de2-aee9-270615db153d",
+				"method": "GET"
+			},
+			{
+				"id": "9d854af7-b2f1-4106-8854-af062e676a94",
+				"method": "GET"
+			},
+			{
+				"id": "00703820-c5d1-4505-83c7-54d26574ab79",
+				"method": "GET"
+			},
+			{
+				"id": "696fad1f-4aaf-4a0b-8722-9508e1fe80d9",
+				"method": "GET"
+			},
+			{
+				"id": "f54d2d0f-21a3-44e4-b312-1d60f00a283e",
+				"method": "GET"
+			},
+			{
+				"id": "b4f95230-00d4-473e-ba84-3f13ffb15ee0",
+				"method": "GET"
+			},
+			{
+				"id": "8940bf06-ea6d-4ad4-b9bc-34b561a032e3",
+				"method": "GET"
+			},
+			{
+				"id": "b7c3fc82-a9bc-4c6c-a9e8-cbcd072d2d91",
+				"method": "GET"
+			},
+			{
+				"id": "165a351c-d7ac-4036-a00c-dcffda7f0b10",
+				"method": "GET"
+			},
+			{
+				"id": "81e5df4a-9025-4c47-9ba5-13de0825cfa0",
+				"method": "POST"
+			},
+			{
+				"id": "d6e16854-8f58-4133-bef2-72f201820b70",
+				"method": "GET"
+			}
+		]
+	}
+}
